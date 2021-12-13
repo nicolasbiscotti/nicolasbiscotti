@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 -->
 - 🔭 Actualmente estoy trabajando en el desarrollo de un e-commerce.
 - 🌱 Estoy aprendiendo a trabajar en equipo (SCRUM - GitFlow).
-- 📫 Contactame:  www.linkedin.com/in/nicolas-biscotti.
+- 📫 Contactame:  www.linkedin.com/in/nicolas-biscotti - nicolas.biscotti@gmail.com 
+
+<h2 align="center">
+Full Stack Developer. 
+</h2>
