@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 Actualmente estoy trabajando en el desarrollo de un e-commerce https://github.com/EdarkoGit/edarko-store.git
-- 🌱 Actualmente estoy aprendiendo a trabajar en equipo (SCRUM - GitFlow)
-- 📫 Contactame:  www.linkedin.com/in/nicolas-biscotti
+- 🔭 Actualmente estoy trabajando en el desarrollo de un e-commerce.
+- 🌱 Estoy aprendiendo a trabajar en equipo (SCRUM - GitFlow).
+- 📫 Contactame:  www.linkedin.com/in/nicolas-biscotti.
