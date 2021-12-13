@@ -1,8 +1,6 @@
-### Hello World 👋
+<img src="https://github.com/nicolasbiscotti/nicolasbiscotti/blob/main/assets/github-header.gif" atl="hello world"/>
 
-<img src="https://github.com/nicolasbiscotti/nicolasbiscotti/blob/main/assets/github-header.png" atl="hello world"/>
-
-### Mi nombre es Nicolás Biscotti y soy Full Stack Developer. 
+### Mi nombre es Nicolás Biscotti y soy Full Stack Developer.👋
 
 
 - 🔭 Actualmente estoy trabajando en el desarrollo de un e-commerce como proyecto final para HENRY.
