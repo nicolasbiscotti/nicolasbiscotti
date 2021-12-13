@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World 👋
 
 <!--
 **nicolasbiscotti/nicolasbiscotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 Actualmente estoy trabajando en el desarrollo de un e-commerce https://github.com/EdarkoGit/edarko-store.git
+- 🌱 Actualmente estoy aprendiendo a trabajar en equipo (SCRUM - GitFlow)
+- 📫 Contactame:  www.linkedin.com/in/nicolas-biscotti
