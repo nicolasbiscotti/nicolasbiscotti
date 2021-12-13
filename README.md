@@ -1,23 +1,13 @@
 ### Hello World 👋
 
-<!--
-**nicolasbiscotti/nicolasbiscotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Mi nombre es Nicolás Biscotti y soy Full Stack Developer. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 Actualmente estoy trabajando en el desarrollo de un e-commerce.
+
+- 🔭 Actualmente estoy trabajando en el desarrollo de un e-commerce como proyecto final para HENRY.
 - 🌱 Estoy aprendiendo a trabajar en equipo (SCRUM - GitFlow).
-- 📫 Contactame:  www.linkedin.com/in/nicolas-biscotti - nicolas.biscotti@gmail.com 
+💬 Preguntame sobre  **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize**
 
-<h2 align="center">
-Full Stack Developer. 
-</h2>
+- 📫 Contactame: <a href="https://linkedin.com/in/nicolas-biscotti/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://linkedin.com/in/nicolas-biscotti/" height="25" width="35" /></a> <a href="mailto:nicolas.biscotti@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="nicolas.biscotti@gmail.com" height="25" width="35" /></a> 
+
+
